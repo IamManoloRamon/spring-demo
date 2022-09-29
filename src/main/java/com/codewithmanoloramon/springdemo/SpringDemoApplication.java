@@ -9,5 +9,7 @@ public class SpringDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDemoApplication.class, args);
 	}
-	//TODO: Starting the Server
+
+    //TODO: JPA Repository
+
 }
